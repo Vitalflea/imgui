@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="backends\imgui_impl_dx9.cpp" />
     <ClCompile Include="backends\imgui_impl_opengl2.cpp" />
     <ClCompile Include="backends\imgui_impl_win32.cpp" />
     <ClCompile Include="imgui.cpp" />
